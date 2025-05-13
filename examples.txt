@@ -1,0 +1,6 @@
+ham Are you coming to the party tonight?
+spam    You have won a $1000 Walmart gift card. Claim now!
+ham Let’s grab lunch tomorrow if you're free.
+spam    Urgent! Your loan is approved. Click to receive funds.
+ham Meeting at 3 PM, don’t be late!
+spam    Free entry to win tickets! Text WIN to 12345.
